@@ -9,7 +9,9 @@ const PageNotFound = () => {
     <div className="pageNotFound">
       <ContentWrapper>
         <span className="bigText">404</span>
-        <span className="smallText">Page not found!</span>
+        <span className="smallText">
+          Page not found! Some thing went wrong.
+        </span>
       </ContentWrapper>
     </div>
   );
